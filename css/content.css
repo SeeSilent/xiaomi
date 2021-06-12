@@ -1,0 +1,426 @@
+.content {
+    width: 100%;
+    background-color: #f5f5f5;
+    margin: 20px 0px 0px 0px;
+}
+.content .mimiaosha{
+    width: 1226px;
+    margin: 0px auto;
+    padding: 15px 0px;
+}
+.content .mimiaosha .misha{
+    margin: 0px 0px 15px 0px;
+}
+.content .mimiaosha .misha h2{
+    color: #333;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.content .mimiaosha .misha a {
+    height: 24px;
+    border: solid 1px #e0e0e0;
+    padding: 2px 9px;
+    width: 36px;
+    box-sizing: border-box;
+    margin: 2px 0px 0px 0px;
+    font-weight: bold;
+}
+
+.content .mimiaosha .misha a span{
+    font-size: 12px;
+    
+}
+.content .mimiaosha .misha a:hover span{
+    color: #ff6700;
+}
+.content .mishatime{
+    height: 340px;
+    width: 234px;
+    background-color: #f1eded;
+    box-sizing: border-box;
+    border-top: solid 1px #e53935;
+}
+.content .mishatime .chang{
+    display: block;
+    font-size: 21px;
+    color: #ef3a3b;
+    text-align: center;
+    margin-top: 65px;
+}
+.content .mishatime img{
+    display: block;
+    margin: 25px auto;
+}
+.content .mishatime .jieshu{
+    display: block;
+    font-size: 15px;
+    color: rgba(0, 0, 0, .54);
+    text-align: center;
+}
+.content .mishatime .daojishi{
+    padding: 0px 33px;
+    margin: 50px 0px 0px 0px;
+}
+.content .mishatime .daojishi div{
+    width:46px;
+    height: 46px;
+    line-height: 46px;
+    color: #fff;
+    font-size: 24px;
+    box-sizing: border-box;
+    border: solid 1px black;
+    background-color: #605751;
+    text-align: center;
+
+}
+.content .mishatime .daojishi span{
+    font-size: 28px;
+    width: 15px;
+    height: 46px;
+    line-height: 46px;
+    color: #605751;
+    text-align: center;
+}
+
+.content .mimiaosha .mishacon .mishalun{
+    width: 992px;
+    height: 340px;
+    overflow: hidden;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli{
+    height: 339px;
+    width: 234px;
+    box-sizing: border-box;
+    border-top: solid 1px seagreen;
+    float: left;
+    margin: 0px 7px 0px 7px;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul{
+    width: 2976px;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a  .mishali img{
+    display: block;
+    margin: 10px auto;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a  .mishali .shangping{
+    text-align: center;
+    font-size: 14px;
+    color: #212121;
+    margin: 10px 0px 0px 0px;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a  .mishali .jianjie{
+    text-align: center;
+    font-size: 12px;
+    color: #b0b0b0;
+    margin: 10px 0px 0px 0px;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a .mishali .jiage{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a .mishali .jiage  .qian{
+    display: inline-block;
+    font-size: 14px;
+    color: #ff6709;
+}
+.content .mimiaosha .mishacon .mishalun .mishatul .mishatli a  .mishali .jiage s{
+    display: inline-block;
+    font-size: 14px;
+    color: #b0b0b0;
+}
+
+.content .a_img{
+    width: 1226px;
+    margin: 12px auto;
+}
+.content .a_img2{
+    width: 1226px;
+    margin: 30px auto;
+}
+
+.content .jiadian{
+    width: 1226px;
+    margin: 0px auto;
+}
+.content .jiahead h2{
+    color: #333;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.content .jiahead a{
+    font-size: 16px;
+    line-height: 2em;
+    margin: 0px 10px;
+    box-sizing: border-box;
+    border: 2px solid transparent;
+}
+.content .jiadian .jiacontent{
+    margin: 10px 0px 0px 0px;
+}
+.content .jiadian .jiacontent .jialeft{
+    width: 234px;
+    height: 614px;
+}
+.content .jiadian .jiacontent .jialeft .jialeftli:hover{
+    box-shadow: 0px 3px 22px rgba(0, 0, 0, .15);
+    transition: all 0.3s ease;
+    transform: translateY(-3px);
+}
+.content .jiadian .jiacontent .jialeft .jialeftul .jialeftli:first-child{
+    margin: 0px 0px 11px 0px;
+}
+.content .jiadian .jiacontent .jiaright{
+    width: 992px;
+    height: 614px;
+    overflow: hidden;
+}
+
+.content .jiadian .jiacontent .jiaright .jiarightul{
+    width: 3968px;
+}
+
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli{
+    background-color: white;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli:hover{
+    box-shadow: 0px 3px 22px rgba(0, 0, 0, .15);
+    transition: all 0.3s ease;
+    transform: translateY(-3px);
+}
+.content .jiadian .jiacontent .jiaright .uli .jiarightli{
+    margin: 0px 7px;
+    padding: 0px 17px;
+
+}
+
+.content .jiadian .jiacontent .jiaright .ulii .jiarightli{
+    margin: 12px 7px 0px 7px;
+    padding: 0px 17px;
+}
+
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a img{
+    display: block;
+    margin: 10px 0px;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a .shangping{
+    font-size: 14px;
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a .jieshao{
+    text-align: center;
+    color: #b0b0b0;
+    margin: 0px 0px 10px 0px;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a .qian{
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a .jiage{
+    color: #ff6700;
+}
+.content .jiadian .jiacontent .jiaright .jiarightul .jiarightli a s{
+    color: #b0b0b0;
+}
+
+.content .shipin{
+    width: 1226px;
+    margin: 0px auto;
+}
+
+.content .shipin .shipinheader h2{
+    font-size: 22px;
+    font-weight: lighter;
+    color: #333;
+}
+.content .shipin .shipinheader .shipinright a span{
+    margin-right: 5px;
+    font-size: 16px;
+    color: #424242;
+}
+.content .shipin .shipinheader .shipinright a span:last-child{
+    font-size: 22px;
+    color: #b0b0b0;
+}
+.content .shipin .shipinheader .shipinright:hover a span{
+    color: #ff6700;
+}
+.content .shipin .shipincontent .shipinul{
+    width: 1226px;
+    height: 285px;
+
+}
+.content .shipin .shipincontent .shipinul .shipinli{
+    width: 296px;
+    height: 285px;
+    background-color: #fff;
+    position: relative;
+    margin: 0px 5px;
+}
+.content .shipin .shipincontent .shipinul .shipinli:hover{
+    transform: translateY(-3px);
+    box-shadow: 0px 3px 22px rgba(0, 0, 0, .15);
+    transition: all 0.3s ease;
+}
+.content .shipin .shipincontent .shipinul .shipinli a img:hover +span{
+    background-color: #ff6700;
+}
+.content .shipin .shipincontent .shipinul .shipinli span{
+    position: absolute;
+    top: 145px;
+    left: 15px;
+    border: solid 1px white;
+    padding: 3px 9px 4px;
+    font-size: 12px;
+    border-radius: 15px;
+    color: #fff;
+}
+.content .shipin .shipincontent .shipinul .shipinli .shipinming{
+    margin: 10px 0px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+}
+.content .shipin .shipincontent .shipinul .shipinli .shipinjianjie{
+    font-size: 12px;
+    color: #b0b0b0;
+    text-align: center;
+}
+.footer .guanyu{
+    width: 1226px;
+    margin: 0px auto;
+}
+.footer .guanyu .qitian{
+    padding: 10px 0px ;
+    border-bottom: solid 1px #e0e0e0;
+}
+.footer .guanyu .qitian .qitianul .qitianli{
+    margin: 21px 43px;
+}
+.footer .guanyu .qitian .qitianul .qitianli:hover a span{
+    color: #ff6700;
+}
+.footer .guanyu .qitian .qitianul .qitianli  span:first-child{
+    color: #616161;
+    font-size: 28px;
+}
+.footer .guanyu .qitian .qitianul .qitianli  span:last-child{
+    font-size: 16px;
+    color: #616161;
+    margin: 5px;
+}   
+.footer .guanxiao .guanleft dl {
+    margin: 50px 128px 0px 0px
+}
+.footer .guanxiao .guanleft dl dt{
+    font-size: 14px;
+    color: #424242;
+}
+.footer .guanxiao .guanleft dl dd{
+    font-size: 12px;
+    color: #757575;
+    text-align: center;
+    margin: 10px 0px;
+}
+.footer .guanxiao .guanleft dl dd:hover{
+    color: #ff6700;
+}
+
+
+
+
+.footer .guanxiao .guanright{
+    width: 252px;
+    height: 111px;
+    padding: 10px 22px ;
+    margin: 41px 0px 0px 0px;
+    border-left: solid 1px #e0e0e0;
+    position: relative;
+}
+.footer .guanxiao .guanright .guandianhua .dianhua{
+    color: #ff6700;
+    font-size: 22px;
+    text-align: center;
+}
+.footer .guanxiao .guanright .guandianhua .shijian{
+    font-size: 12px;
+    color: #616161;
+    text-align: center;
+}
+.footer .guanxiao .guanright .guandianhua .kefu{
+    text-align: center;
+    margin: 5px 0px;
+}
+.footer .guanxiao .guanright .guandianhua .kefu a:hover{
+    background-color: #ff6700;
+
+}
+.footer .guanxiao .guanright .guandianhua .kefu a:hover span{
+    color: white;
+}
+.footer .guanxiao .guanright .guandianhua .kefu a{
+    display: inline-block;
+    border: solid 1px #ff6700;
+    padding: 6px 33px;
+}
+.footer .guanxiao .guanright .guandianhua .kefu span:first-child{
+    color: #ff6700;
+}
+.footer .guanxiao .guanright .guandianhua .kefu span:last-child{
+    font-size: 12px;
+    color: #ff6700;
+}
+.footer .guanxiao .guanright .guandianhua .weixin{
+    text-align: center;
+}
+.footer .guanxiao .guanright .guandianhua .weixin span{
+    font-size: 12px;
+    color: #616161;
+}
+.footer .guanxiao .guanright .guandianhua .weixin>span{
+    margin: 4px 0px 0px 75px;
+}
+.footer .guanxiao .guanright .guandianhua .weixin a{
+    font-size: 12px;
+    color: #757575;
+}
+.footer .guanxiao .guanright .guandianhua .weixin a:hover span{
+    color: #ff6700;
+}
+.footer .guanxiao .guanright .guandianhua .weixin a span{
+    font-size: 21px;
+}
+.footer .guanxiao .guanright .guandianhua .weixin a:last-child{
+    margin: 1px 0px 0px 4px;
+}
+
+.footer .guanxiao .guanright .guandianhua .weixin .erweima{
+    position: absolute;
+    top: 118px;
+    left: 137px;
+    display: none;
+}
+.footer .guanxiao .guanright .guandianhua .weixin a:last-child:hover .erweima{
+    display: block;
+}
+.footer .guanxiao .guanright .guandianhua .weixin .erweima img{
+    width: 100px;
+}
+
+
+
+.footer .beizhu{
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 50px 0px;
+}
+.footer .beizhu .footerlast{
+    width: 1226px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+
+
+
+
